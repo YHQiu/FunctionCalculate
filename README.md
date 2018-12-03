@@ -1,6 +1,5 @@
 # FunctionCalculate
 
-[![CI Status](https://img.shields.io/travis/https://github.com/YHQiu/FunctionCalculate.svg?style=flat)](https://travis-ci.org/https://github.com/YHQiu/FunctionCalculate)
 [![Version](https://img.shields.io/cocoapods/v/FunctionCalculate.svg?style=flat)](https://cocoapods.org/pods/FunctionCalculate)
 [![License](https://img.shields.io/cocoapods/l/FunctionCalculate.svg?style=flat)](https://cocoapods.org/pods/FunctionCalculate)
 [![Platform](https://img.shields.io/cocoapods/p/FunctionCalculate.svg?style=flat)](https://cocoapods.org/pods/FunctionCalculate)
