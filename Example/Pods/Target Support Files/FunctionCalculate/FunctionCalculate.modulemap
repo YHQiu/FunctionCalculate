@@ -1,0 +1,6 @@
+framework module FunctionCalculate {
+  umbrella header "FunctionCalculate-umbrella.h"
+
+  export *
+  module * { export * }
+}
