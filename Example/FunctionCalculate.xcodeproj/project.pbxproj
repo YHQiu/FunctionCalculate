@@ -7,52 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		29C56FC721AB9FB100DCDA29 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 29C56FC321AB9FB100DCDA29 /* .gitkeep */; };
-		29C56FC821AB9FB100DCDA29 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 29C56FC321AB9FB100DCDA29 /* .gitkeep */; };
-		29C56FCB21AB9FB100DCDA29 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 29C56FC621AB9FB100DCDA29 /* .gitkeep */; };
-		29C56FCC21AB9FB100DCDA29 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 29C56FC621AB9FB100DCDA29 /* .gitkeep */; };
 		29C56FCE21ABA4EC00DCDA29 /* FunctionCalculate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29C56FCD21ABA4EC00DCDA29 /* FunctionCalculate.swift */; };
-		29C56FCF21ABA4EC00DCDA29 /* FunctionCalculate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29C56FCD21ABA4EC00DCDA29 /* FunctionCalculate.swift */; };
 		29C56FD121B0D7B300DCDA29 /* Combination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29C56FD021B0D7B300DCDA29 /* Combination.swift */; };
-		29C56FD221B0D7B300DCDA29 /* Combination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29C56FD021B0D7B300DCDA29 /* Combination.swift */; };
 		29C56FDA21B11E0A00DCDA29 /* Permutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29C56FD921B11E0A00DCDA29 /* Permutation.swift */; };
-		29C56FDB21B11E0A00DCDA29 /* Permutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29C56FD921B11E0A00DCDA29 /* Permutation.swift */; };
 		29C56FDD21B1234E00DCDA29 /* GreatestCommonDivisor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29C56FDC21B1234E00DCDA29 /* GreatestCommonDivisor.swift */; };
-		29C56FDE21B1234E00DCDA29 /* GreatestCommonDivisor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29C56FDC21B1234E00DCDA29 /* GreatestCommonDivisor.swift */; };
 		29C56FE021B1237500DCDA29 /* LowestCommonMultiple.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29C56FDF21B1237400DCDA29 /* LowestCommonMultiple.swift */; };
-		29C56FE121B1237500DCDA29 /* LowestCommonMultiple.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29C56FDF21B1237400DCDA29 /* LowestCommonMultiple.swift */; };
 		29C56FF121B12C0C00DCDA29 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29C56FE921B12C0C00DCDA29 /* ViewController.swift */; };
-		29C56FF221B12C0C00DCDA29 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29C56FE921B12C0C00DCDA29 /* ViewController.swift */; };
 		29C56FF321B12C0C00DCDA29 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 29C56FEA21B12C0C00DCDA29 /* LaunchScreen.xib */; };
-		29C56FF421B12C0C00DCDA29 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 29C56FEA21B12C0C00DCDA29 /* LaunchScreen.xib */; };
 		29C56FF521B12C0C00DCDA29 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 29C56FEC21B12C0C00DCDA29 /* Main.storyboard */; };
-		29C56FF621B12C0C00DCDA29 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 29C56FEC21B12C0C00DCDA29 /* Main.storyboard */; };
 		29C56FF721B12C0C00DCDA29 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 29C56FEE21B12C0C00DCDA29 /* Images.xcassets */; };
-		29C56FF821B12C0C00DCDA29 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 29C56FEE21B12C0C00DCDA29 /* Images.xcassets */; };
 		29C56FF921B12C0C00DCDA29 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29C56FEF21B12C0C00DCDA29 /* AppDelegate.swift */; };
-		29C56FFA21B12C0C00DCDA29 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29C56FEF21B12C0C00DCDA29 /* AppDelegate.swift */; };
 		29C56FFB21B12C0C00DCDA29 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 29C56FF021B12C0C00DCDA29 /* Info.plist */; };
-		29C56FFC21B12C0C00DCDA29 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 29C56FF021B12C0C00DCDA29 /* Info.plist */; };
-		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
-		608EC0C813F03AD5CDE5FEFA /* Pods_FunctionCalculate_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A7DF47C85E2762006ECBCF6 /* Pods_FunctionCalculate_Tests.framework */; };
-		8685475D169F4832E704EE39 /* Pods_MathematicalFormula_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EB7F1CAA65E71380D4BBC528 /* Pods_MathematicalFormula_Tests.framework */; };
 		DF6EF8DAC12693FFF6E6247C /* Pods_FunctionCalculate_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0C84AA91ACFFDF414F8F565 /* Pods_FunctionCalculate_Example.framework */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		607FACE61AFB9204008FA782 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 607FACC81AFB9204008FA782 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 607FACCF1AFB9204008FA782;
-			remoteInfo = MathematicalFormula;
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
-		1A7E174E80985BDC0183F693 /* Pods-FunctionCalculate_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FunctionCalculate_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-FunctionCalculate_Tests/Pods-FunctionCalculate_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		29C56FC321AB9FB100DCDA29 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
-		29C56FC621AB9FB100DCDA29 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
 		29C56FCD21ABA4EC00DCDA29 /* FunctionCalculate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FunctionCalculate.swift; sourceTree = "<group>"; };
 		29C56FD021B0D7B300DCDA29 /* Combination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Combination.swift; sourceTree = "<group>"; };
 		29C56FD921B11E0A00DCDA29 /* Permutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Permutation.swift; sourceTree = "<group>"; };
@@ -67,17 +36,9 @@
 		29C56FFD21B5178700DCDA29 /* FunctionCalculate.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; name = FunctionCalculate.podspec; path = ../FunctionCalculate.podspec; sourceTree = "<group>"; };
 		3A7DF47C85E2762006ECBCF6 /* Pods_FunctionCalculate_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FunctionCalculate_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD01AFB9204008FA782 /* FunctionCalculate_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FunctionCalculate_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		607FACE51AFB9204008FA782 /* FunctionCalculate_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FunctionCalculate_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		70B7E82D82B77AFDDAD8CC9A /* Pods-MathematicalFormula_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MathematicalFormula_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-MathematicalFormula_Example/Pods-MathematicalFormula_Example.release.xcconfig"; sourceTree = "<group>"; };
-		7212456AA1E95F863381AE7B /* Pods-MathematicalFormula_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MathematicalFormula_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-MathematicalFormula_Tests/Pods-MathematicalFormula_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		9B0D45BB0601F18FDB845411 /* Pods-FunctionCalculate_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FunctionCalculate_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FunctionCalculate_Example/Pods-FunctionCalculate_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		A5A487751B408E1B7658B7AD /* Pods-FunctionCalculate_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FunctionCalculate_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FunctionCalculate_Tests/Pods-FunctionCalculate_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		A980CD53ABC4BC29793920B8 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		AA1A2B0249B17474A56AAE73 /* Pods-FunctionCalculate_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FunctionCalculate_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-FunctionCalculate_Example/Pods-FunctionCalculate_Example.release.xcconfig"; sourceTree = "<group>"; };
-		C1641EAB68F04236E6AE673A /* Pods-MathematicalFormula_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MathematicalFormula_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MathematicalFormula_Example/Pods-MathematicalFormula_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		C1E4F4ECE187BED7448D028F /* Pods-MathematicalFormula_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MathematicalFormula_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MathematicalFormula_Tests/Pods-MathematicalFormula_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		C9BDA518C9674C7DCDDA7C24 /* Pods_MathematicalFormula_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MathematicalFormula_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB7F1CAA65E71380D4BBC528 /* Pods_MathematicalFormula_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MathematicalFormula_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F0C84AA91ACFFDF414F8F565 /* Pods_FunctionCalculate_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FunctionCalculate_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -90,15 +51,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				DF6EF8DAC12693FFF6E6247C /* Pods_FunctionCalculate_Example.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		607FACE21AFB9204008FA782 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				8685475D169F4832E704EE39 /* Pods_MathematicalFormula_Tests.framework in Frameworks */,
-				608EC0C813F03AD5CDE5FEFA /* Pods_FunctionCalculate_Tests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -118,7 +70,6 @@
 		29C56FC221AB9FB100DCDA29 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				29C56FC321AB9FB100DCDA29 /* .gitkeep */,
 				29C56FCD21ABA4EC00DCDA29 /* FunctionCalculate.swift */,
 				29C56FD021B0D7B300DCDA29 /* Combination.swift */,
 				29C56FD921B11E0A00DCDA29 /* Permutation.swift */,
@@ -131,7 +82,6 @@
 		29C56FC521AB9FB100DCDA29 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
-				29C56FC621AB9FB100DCDA29 /* .gitkeep */,
 			);
 			path = Assets;
 			sourceTree = "<group>";
@@ -166,7 +116,6 @@
 				29C56FC121AB9FB100DCDA29 /* FunctionCalculate */,
 				607FACF51AFB993E008FA782 /* Podspec Metadata */,
 				29C56FE821B12C0C00DCDA29 /* FunctionCalculate */,
-				607FACE81AFB9204008FA782 /* Tests */,
 				607FACD11AFB9204008FA782 /* Products */,
 				870EBF660662A0252D094EDF /* Pods */,
 				3771AE498A6BE40B8F9757E7 /* Frameworks */,
@@ -177,26 +126,8 @@
 			isa = PBXGroup;
 			children = (
 				607FACD01AFB9204008FA782 /* FunctionCalculate_Example.app */,
-				607FACE51AFB9204008FA782 /* FunctionCalculate_Tests.xctest */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		607FACE81AFB9204008FA782 /* Tests */ = {
-			isa = PBXGroup;
-			children = (
-				607FACEB1AFB9204008FA782 /* Tests.swift */,
-				607FACE91AFB9204008FA782 /* Supporting Files */,
-			);
-			path = Tests;
-			sourceTree = "<group>";
-		};
-		607FACE91AFB9204008FA782 /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
-				607FACEA1AFB9204008FA782 /* Info.plist */,
-			);
-			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 		607FACF51AFB993E008FA782 /* Podspec Metadata */ = {
@@ -212,14 +143,8 @@
 		870EBF660662A0252D094EDF /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				C1641EAB68F04236E6AE673A /* Pods-MathematicalFormula_Example.debug.xcconfig */,
-				70B7E82D82B77AFDDAD8CC9A /* Pods-MathematicalFormula_Example.release.xcconfig */,
-				C1E4F4ECE187BED7448D028F /* Pods-MathematicalFormula_Tests.debug.xcconfig */,
-				7212456AA1E95F863381AE7B /* Pods-MathematicalFormula_Tests.release.xcconfig */,
 				9B0D45BB0601F18FDB845411 /* Pods-FunctionCalculate_Example.debug.xcconfig */,
 				AA1A2B0249B17474A56AAE73 /* Pods-FunctionCalculate_Example.release.xcconfig */,
-				A5A487751B408E1B7658B7AD /* Pods-FunctionCalculate_Tests.debug.xcconfig */,
-				1A7E174E80985BDC0183F693 /* Pods-FunctionCalculate_Tests.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -247,27 +172,6 @@
 			productReference = 607FACD01AFB9204008FA782 /* FunctionCalculate_Example.app */;
 			productType = "com.apple.product-type.application";
 		};
-		607FACE41AFB9204008FA782 /* FunctionCalculate_Tests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 607FACF21AFB9204008FA782 /* Build configuration list for PBXNativeTarget "FunctionCalculate_Tests" */;
-			buildPhases = (
-				8669E1853BF717A92CC9B2D9 /* [CP] Check Pods Manifest.lock */,
-				607FACE11AFB9204008FA782 /* Sources */,
-				607FACE21AFB9204008FA782 /* Frameworks */,
-				607FACE31AFB9204008FA782 /* Resources */,
-				F2207D4E173E90D5069DE1BD /* [CP] Embed Pods Frameworks */,
-				D199730F6030285E5F99ED93 /* [CP] Copy Pods Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				607FACE71AFB9204008FA782 /* PBXTargetDependency */,
-			);
-			name = FunctionCalculate_Tests;
-			productName = Tests;
-			productReference = 607FACE51AFB9204008FA782 /* FunctionCalculate_Tests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -281,11 +185,6 @@
 					607FACCF1AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
 						LastSwiftMigration = 1010;
-					};
-					607FACE41AFB9204008FA782 = {
-						CreatedOnToolsVersion = 6.3.1;
-						LastSwiftMigration = 1010;
-						TestTargetID = 607FACCF1AFB9204008FA782;
 					};
 				};
 			};
@@ -303,7 +202,6 @@
 			projectRoot = "";
 			targets = (
 				607FACCF1AFB9204008FA782 /* FunctionCalculate_Example */,
-				607FACE41AFB9204008FA782 /* FunctionCalculate_Tests */,
 			);
 		};
 /* End PBXProject section */
@@ -313,25 +211,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				29C56FCB21AB9FB100DCDA29 /* .gitkeep in Resources */,
 				29C56FF721B12C0C00DCDA29 /* Images.xcassets in Resources */,
 				29C56FFB21B12C0C00DCDA29 /* Info.plist in Resources */,
 				29C56FF321B12C0C00DCDA29 /* LaunchScreen.xib in Resources */,
-				29C56FC721AB9FB100DCDA29 /* .gitkeep in Resources */,
 				29C56FF521B12C0C00DCDA29 /* Main.storyboard in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		607FACE31AFB9204008FA782 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				29C56FC821AB9FB100DCDA29 /* .gitkeep in Resources */,
-				29C56FF821B12C0C00DCDA29 /* Images.xcassets in Resources */,
-				29C56FFC21B12C0C00DCDA29 /* Info.plist in Resources */,
-				29C56FF421B12C0C00DCDA29 /* LaunchScreen.xib in Resources */,
-				29C56FCC21AB9FB100DCDA29 /* .gitkeep in Resources */,
-				29C56FF621B12C0C00DCDA29 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -374,42 +257,9 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FunctionCalculate_Example/Pods-FunctionCalculate_Example-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		8669E1853BF717A92CC9B2D9 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-FunctionCalculate_Tests-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		D199730F6030285E5F99ED93 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FunctionCalculate_Tests/Pods-FunctionCalculate_Tests-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 		D3BF741CEFF7FBD736222303 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
+			buildActionMask = 12;
 			files = (
 			);
 			inputPaths = (
@@ -420,26 +270,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FunctionCalculate_Example/Pods-FunctionCalculate_Example-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		F2207D4E173E90D5069DE1BD /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-FunctionCalculate_Tests/Pods-FunctionCalculate_Tests-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/FBSnapshotTestCase/FBSnapshotTestCase.framework",
-				"${BUILT_PRODUCTS_DIR}/Quick/Quick.framework",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSnapshotTestCase.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Quick.framework",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FunctionCalculate_Tests/Pods-FunctionCalculate_Tests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -459,30 +289,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		607FACE11AFB9204008FA782 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				29C56FFA21B12C0C00DCDA29 /* AppDelegate.swift in Sources */,
-				29C56FD221B0D7B300DCDA29 /* Combination.swift in Sources */,
-				29C56FDB21B11E0A00DCDA29 /* Permutation.swift in Sources */,
-				29C56FCF21ABA4EC00DCDA29 /* FunctionCalculate.swift in Sources */,
-				607FACEC1AFB9204008FA782 /* Tests.swift in Sources */,
-				29C56FF221B12C0C00DCDA29 /* ViewController.swift in Sources */,
-				29C56FE121B1237500DCDA29 /* LowestCommonMultiple.swift in Sources */,
-				29C56FDE21B1234E00DCDA29 /* GreatestCommonDivisor.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		607FACE71AFB9204008FA782 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 607FACCF1AFB9204008FA782 /* FunctionCalculate_Example */;
-			targetProxy = 607FACE61AFB9204008FA782 /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		29C56FEA21B12C0C00DCDA29 /* LaunchScreen.xib */ = {
@@ -631,46 +438,6 @@
 			};
 			name = Release;
 		};
-		607FACF31AFB9204008FA782 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = A5A487751B408E1B7658B7AD /* Pods-FunctionCalculate_Tests.debug.xcconfig */;
-			buildSettings = {
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(SDKROOT)/Developer/Library/Frameworks",
-					"$(inherited)",
-				);
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"DEBUG=1",
-					"$(inherited)",
-				);
-				INFOPLIST_FILE = Tests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FunctionCalculate_Example.app/FunctionCalculate_Example";
-			};
-			name = Debug;
-		};
-		607FACF41AFB9204008FA782 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1A7E174E80985BDC0183F693 /* Pods-FunctionCalculate_Tests.release.xcconfig */;
-			buildSettings = {
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(SDKROOT)/Developer/Library/Frameworks",
-					"$(inherited)",
-				);
-				INFOPLIST_FILE = Tests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FunctionCalculate_Example.app/FunctionCalculate_Example";
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -688,15 +455,6 @@
 			buildConfigurations = (
 				607FACF01AFB9204008FA782 /* Debug */,
 				607FACF11AFB9204008FA782 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		607FACF21AFB9204008FA782 /* Build configuration list for PBXNativeTarget "FunctionCalculate_Tests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				607FACF31AFB9204008FA782 /* Debug */,
-				607FACF41AFB9204008FA782 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
